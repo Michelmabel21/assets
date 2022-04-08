@@ -1,0 +1,11 @@
+    "name": "Clean The World Token",
+    "website": "https://www.clean-the-world-official.com/",
+    "description": "CTW token aims to finance green projects that concretely work to reduce environmental pollution in a sustainable way.",
+    "explorer": "https://bscscan.com/token/0xC2D90B5515Eff48998775a7900ff50aBC6404f8F",
+    "type": "BEP20",
+    "symbol": "CTW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC2D90B5515Eff48998775a7900ff50aBC6404f8F"
+}
+
